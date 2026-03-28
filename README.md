@@ -4,7 +4,7 @@
 [![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux)](https://www.linux.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[![Made by SAMER SAEID ♥️](https://img.shields.io/badge/Made%20by-%E2%99%A5%EF%B8%8F-red)](https://bio.link/samer)
+[![by SAMER SAEID ♥️](https://img.shields.io/badge/by-SAMER%20SAEID%20%E2%99%A5%EF%B8%8F-red)](https://bio.link/samer)
 
 ## 📖 Description
 A **comprehensive collection** of essential shell commands with **tutorials and practical examples**. Perfect for beginners, system administrators, and anyone who wants to master the command line. This guide covers file management, text processing, permissions, networking, processes, and more — all in one place.
